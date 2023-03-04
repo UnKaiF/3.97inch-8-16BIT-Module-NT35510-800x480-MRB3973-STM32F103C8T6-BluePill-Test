@@ -1,10 +1,10 @@
 # This code allows you to quickly check the LCD module after purchase.
  > Code based on [www.lcdwiki.com](www.lcdwiki.com) sources.
 
-## [LCD: 3.97inch 16BIT Module NT35510 SKU:MRB3973](http://www.lcdwiki.com/3.97inch_16BIT_Module_NT35510_SKU:MRB3973) \
-<img src="https://github.com/UnKaiF/3.97inch-8-16BIT-Module-NT35510-800x480-MRB3973-STM32F103C8T6-BluePill-Test/blob/main/600px-MRB3973-008.jpg"  width="400" > \
-## [BOARD: STM32F103C8T6 aka "Blue Pill"](http://www.vcc-gnd.com/) \
-<img src="https://github.com/UnKaiF/3.97inch-8-16BIT-Module-NT35510-800x480-MRB3973-STM32F103C8T6-BluePill-Test/blob/main/Bluepillpinout.gif"  width="400" > \
+## [LCD: 3.97inch 16BIT Module NT35510 SKU:MRB3973](http://www.lcdwiki.com/3.97inch_16BIT_Module_NT35510_SKU:MRB3973)
+![lcd](https://github.com/UnKaiF/3.97inch-8-16BIT-Module-NT35510-800x480-MRB3973-STM32F103C8T6-BluePill-Test/blob/main/600px-MRB3973-008.jpg) \
+## [BOARD: STM32F103C8T6 aka "Blue Pill"](http://www.vcc-gnd.com/)
+![stm](https://github.com/UnKaiF/3.97inch-8-16BIT-Module-NT35510-800x480-MRB3973-STM32F103C8T6-BluePill-Test/blob/main/Bluepillpinout.gif) \
 
 Connections:
 
